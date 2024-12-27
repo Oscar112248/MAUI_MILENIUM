@@ -8,21 +8,15 @@
     xmlns:pages="clr-namespace:CrudMaui.Views"
     Title="CrudMaui">
 
+
     <!--<ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />-->
-    <ShellContent
         Title="Productos"
-        ContentTemplate="{DataTemplate pages:OnboardingPage}"
-        Route="ProductosPage" />
+        ContentTemplate="{DataTemplate pages:OnboardingPage}"/>-->
     <TabBar>
-        <Tab Title="Home" Icon="home">
-            <ShellContent ContentTemplate="{DataTemplate pages:OnboardingPage}" />
-        </Tab>
-        <Tab Title="Productos" Icon="productos">
-            <ShellContent ContentTemplate="{DataTemplate pages:ProductosPage}" />
-        </Tab>
+        <ShellContent Title="Home" ContentTemplate="{DataTemplate pages:OnboardingPage}" Icon="home" Route="HomePage" />
+
+        <ShellContent Title="Productos" ContentTemplate="{DataTemplate pages:ProductosPage}" Icon="productos" Route="ProductosPage" />
+
     </TabBar>
 
 </Shell>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Net Maui\\CrudMaui\\CrudMaui\\CrudMaui.csproj": {}
+    "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\CrudMaui.csproj": {}
   },
   "projects": {
-    "C:\\Net Maui\\CrudMaui\\CrudMaui\\CrudMaui.csproj": {
+    "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\CrudMaui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Net Maui\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
+        "projectUniqueName": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
         "projectName": "CrudMaui",
-        "projectPath": "C:\\Net Maui\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
+        "projectPath": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
         "packagesPath": "C:\\Users\\omaldonado\\.nuget\\packages\\",
-        "outputPath": "C:\\Net Maui\\CrudMaui\\CrudMaui\\obj\\",
+        "outputPath": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
