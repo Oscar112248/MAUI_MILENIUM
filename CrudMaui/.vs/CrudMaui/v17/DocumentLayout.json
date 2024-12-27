@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Net Maui\\CrudMaui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\net maui\\crudmaui\\crudmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|solutionrelative:crudmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\net maui\\crudmaui\\crudmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|solutionrelative:crudmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\net maui\\crudmaui\\crudmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|solutionrelative:crudmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\net maui\\crudmaui\\crudmaui\\views\\productospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|solutionrelative:crudmaui\\views\\productospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Net Maui\\CrudMaui\\CrudMaui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CrudMaui\\App.xaml.cs",
+              "ToolTip": "C:\\Net Maui\\CrudMaui\\CrudMaui\\App.xaml.cs",
+              "RelativeToolTip": "CrudMaui\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:43:36.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Net Maui\\CrudMaui\\CrudMaui\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CrudMaui\\MauiProgram.cs",
+              "ToolTip": "C:\\Net Maui\\CrudMaui\\CrudMaui\\MauiProgram.cs",
+              "RelativeToolTip": "CrudMaui\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:43:28.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Net Maui\\CrudMaui\\CrudMaui\\AppShell.xaml",
+              "RelativeDocumentMoniker": "CrudMaui\\AppShell.xaml",
+              "ToolTip": "C:\\Net Maui\\CrudMaui\\CrudMaui\\AppShell.xaml",
+              "RelativeToolTip": "CrudMaui\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T16:49:08.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductosPage.xaml",
+              "DocumentMoniker": "C:\\Net Maui\\CrudMaui\\CrudMaui\\Views\\ProductosPage.xaml",
+              "RelativeDocumentMoniker": "CrudMaui\\Views\\ProductosPage.xaml",
+              "ToolTip": "C:\\Net Maui\\CrudMaui\\CrudMaui\\Views\\ProductosPage.xaml",
+              "RelativeToolTip": "CrudMaui\\Views\\ProductosPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T16:48:47.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:m="clr-namespace:UraniumUI.Icons.MaterialIcons;assembly=UraniumUI.Icons.MaterialIcons"
+             xmlns:material="http://schemas.enisn-projects.io/dotnet/maui/uraniumui/material"
+             x:Class="CrudMaui.Views.LoginPage"
+             xmlns:handlers="clr-namespace:CrudMaui"
+             Padding="5"
+             NavigationPage.HasNavigationBar="False">
+
+    <Grid RowDefinitions="*" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"  >
+
+        <Frame BorderColor="Gray"
+               BackgroundColor="White"
+               CornerRadius="10"
+               Padding="10"
+               HasShadow="True"
+               VerticalOptions="FillAndExpand">
+
+            <StackLayout Spacing="25" HorizontalOptions="FillAndExpand" >
+                <Image Source="milenium1.png" 
+                       WidthRequest="200"
+                       HeightRequest="200"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center"
+                       Margin="10"/>
+
+                <Label Text="¡BIENVENIDO!"
+                       FontSize="24"
+                       TextColor="Gray"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Start" />
+
+                <Label Text="Loguéate en tu cuenta"
+                       FontSize="16"
+                       TextColor="Gray"
+                       HorizontalOptions="Center"
+                       VerticalOptions="Start" />
+
+                <StackLayout Orientation="Horizontal" Padding="10">
+                    <Frame ZIndex="1" HasShadow="True" BorderColor="White" WidthRequest="56" CornerRadius="28">
+                        <Image Source="user.png" HeightRequest="20" WidthRequest="20" />
+                    </Frame>
+                    <Frame HeightRequest="45" Margin="-20 ,0,0,0" Padding="0" HasShadow="True" BorderColor="White" HorizontalOptions="FillAndExpand">
+                        <Entry Margin="20 ,0,0,0" VerticalOptions="Center" Placeholder="Usuario" Keyboard="Email" />
+                    </Frame>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" Padding="10">
+                    <Frame ZIndex="1" HasShadow="True" BorderColor="White" WidthRequest="56" CornerRadius="28">
+                        <Image Source="pass.png" HeightRequest="20" WidthRequest="20" />
+                    </Frame>
+                    <Frame HeightRequest="45" Margin="-20 ,0,0,0" Padding="0" HasShadow="True" BorderColor="White" HorizontalOptions="FillAndExpand">
+                        <Entry Margin="20 ,0,0,0" VerticalOptions="Center" Placeholder="Contraseña" Keyboard="Email" IsPassword="True"/>
+                    </Frame>
+                </StackLayout>
+
+                <Button Text="Iniciar sesión" CornerRadius="20" BackgroundColor="#0792ef" WidthRequest="100" HorizontalOptions="Center" Margin="20"/>
+
+
+                <Label Text="© 2024 Milenium Tech" HorizontalOptions="Center" Margin="90" />
+            </StackLayout>
+        </Frame>
+    </Grid>
+</ContentPage>
