@@ -1,6 +1,4 @@
-﻿using CrudMaui.Views;
-
-namespace CrudMaui
+﻿namespace CrudMaui
 {
     public partial class App : Application
     {

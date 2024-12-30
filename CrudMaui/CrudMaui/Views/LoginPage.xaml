@@ -5,7 +5,8 @@
              x:Class="CrudMaui.Views.LoginPage"
              xmlns:handlers="clr-namespace:CrudMaui"
              Padding="5"
-             NavigationPage.HasNavigationBar="False">
+             NavigationPage.HasNavigationBar="False"
+             Shell.FlyoutBehavior="Disabled">
 
     <Grid RowDefinitions="*" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"  >
 
