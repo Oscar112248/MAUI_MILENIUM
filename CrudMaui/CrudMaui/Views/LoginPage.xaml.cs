@@ -1,4 +1,3 @@
-using Microsoft.Maui.Controls;
 namespace CrudMaui.Views
 {
     public partial class LoginPage : ContentPage

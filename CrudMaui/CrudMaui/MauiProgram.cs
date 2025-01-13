@@ -1,6 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
 using UraniumUI;
-using UraniumUI.Icons.MaterialIcons;
 
 
 namespace CrudMaui
@@ -19,9 +18,9 @@ namespace CrudMaui
                     fonts.AddFont("MaterialRegular.ttf", "MaterialRegular");
                     fonts.
                     AddMaterialIconFonts();
-                   // FormHandler.RemoveBorders();
+                    // FormHandler.RemoveBorders();
                 }).UseUraniumUI().UseUraniumUIMaterial(); // Habilitar Material Design para controles
-       // .UseUraniumUIIconsMaterial(); // Habilitar íconos de Material Design;
+                                                          // .UseUraniumUIIconsMaterial(); // Habilitar íconos de Material Design;
 
 #if DEBUG
             builder.Logging.AddDebug();

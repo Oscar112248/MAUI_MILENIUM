@@ -11596,7 +11596,7 @@
         }
       }
     },
-    "net8.0-android34.0/iossimulator-x64": {
+    "net8.0-android34.0/ios-arm64": {
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -21196,7 +21196,7 @@
         }
       }
     },
-    "net8.0-ios18.0/iossimulator-x64": {
+    "net8.0-ios18.0/ios-arm64": {
       "InputKit.Maui/4.4.7": {
         "type": "package",
         "compile": {
@@ -21672,9 +21672,9 @@
           "lib/net8.0-ios17.0/_._": {}
         },
         "native": {
-          "runtimes/iossimulator/native/libSkiaSharp.framework/Info.plist": {},
-          "runtimes/iossimulator/native/libSkiaSharp.framework/_CodeSignature/CodeResources": {},
-          "runtimes/iossimulator/native/libSkiaSharp.framework/libSkiaSharp": {}
+          "runtimes/ios/native/libSkiaSharp.framework/Info.plist": {},
+          "runtimes/ios/native/libSkiaSharp.framework/_CodeSignature/CodeResources": {},
+          "runtimes/ios/native/libSkiaSharp.framework/libSkiaSharp": {}
         },
         "build": {
           "buildTransitive/net8.0-ios17.0/SkiaSharp.NativeAssets.iOS.targets": {}
@@ -25428,7 +25428,7 @@
         }
       }
     },
-    "net8.0-maccatalyst18.0/iossimulator-x64": {
+    "net8.0-maccatalyst18.0/ios-arm64": {
       "InputKit.Maui/4.4.7": {
         "type": "package",
         "compile": {
@@ -30331,7 +30331,7 @@
         }
       }
     },
-    "net8.0-windows10.0.19041/iossimulator-x64": {
+    "net8.0-windows10.0.19041/ios-arm64": {
       "InputKit.Maui/4.4.7": {
         "type": "package",
         "compile": {
@@ -36857,11 +36857,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
+      "projectUniqueName": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
       "projectName": "CrudMaui",
-      "projectPath": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
+      "projectPath": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
       "packagesPath": "C:\\Users\\omaldonado\\.nuget\\packages\\",
-      "outputPath": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\obj\\",
+      "outputPath": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -37050,7 +37050,7 @@
             "version": "[18.0.8316, 18.0.8316]"
           },
           {
-            "name": "Microsoft.iOS.Runtime.iossimulator-x64.net8.0_18.0",
+            "name": "Microsoft.iOS.Runtime.ios-arm64.net8.0_18.0",
             "version": "[18.0.8316, 18.0.8316]"
           }
         ],
@@ -37207,7 +37207,7 @@
       "android-x86": {
         "#import": []
       },
-      "iossimulator-x64": {
+      "ios-arm64": {
         "#import": []
       },
       "maccatalyst-x64": {
