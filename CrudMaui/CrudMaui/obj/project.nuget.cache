@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YMlE8H9AKtU=",
+  "dgSpecHash": "2GASR68SgzI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
+  "projectFilePath": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omaldonado\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\omaldonado\\.nuget\\packages\\inputkit.maui\\4.4.7\\inputkit.maui.4.4.7.nupkg.sha512",

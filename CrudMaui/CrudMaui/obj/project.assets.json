@@ -36857,11 +36857,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
+      "projectUniqueName": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
       "projectName": "CrudMaui",
-      "projectPath": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
+      "projectPath": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\CrudMaui.csproj",
       "packagesPath": "C:\\Users\\omaldonado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\obj\\",
+      "outputPath": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

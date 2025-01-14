@@ -6,21 +6,59 @@
     xmlns:local="clr-namespace:CrudMaui"
     Shell.FlyoutBehavior="Flyout"
     xmlns:pages="clr-namespace:CrudMaui.Views"
-    Title="CrudMaui">
+    Title="CrudMaui"
+     >
 
+    <Shell.FlyoutHeader>
+        <Border BackgroundColor="{StaticResource White}" Padding="5" StrokeThickness="0">
+            <VerticalStackLayout HorizontalOptions="Center">
+                <Image Source="milenium1" HeightRequest="150" WidthRequest="150" HorizontalOptions="Center"/>
+            </VerticalStackLayout>
+        </Border>
+    </Shell.FlyoutHeader>
 
     <ShellContent
-        ContentTemplate="{DataTemplate pages:OnboardingPage}" Shell.FlyoutBehavior="Disabled"/>
+        ContentTemplate="{DataTemplate pages:OnboardingPage}" Shell.FlyoutBehavior="Disabled" Shell.FlyoutItemIsVisible="False"/>
+    
+    
+    
     <TabBar FlyoutDisplayOptions="AsMultipleItems">
-        <ShellContent Title="Home" ContentTemplate="{DataTemplate pages:HomePage}" Icon="home" Route="HomePage" />
+        <ShellContent Title="Home" ContentTemplate="{DataTemplate pages:HomePage}" Icon="home" Route="HomePage" Shell.NavBarIsVisible="False"/>
 
         <ShellContent Title="Facturación" ContentTemplate="{DataTemplate pages:FacturacionPage}" Icon="productos" Route="FacturacionPage" />
 
     </TabBar>
+           
     <Shell.ItemTemplate>
         <DataTemplate>
-            <Label Text="{Binding Title}" ></Label>
+            <Grid ColumnDefinitions="Auto,*,Auto" 
+                  RowDefinitions="Auto,Auto"
+                  Padding="10" ColumnSpacing="15" RowSpacing="5">
+                <Image 
+                    Grid.Row="0"
+                    Grid.Column="0"
+                       HeightRequest="24"
+                       Source="{Binding FlyoutIcon}" 
+                       WidthRequest="50"/>
+                <Label Text="{Binding Title}"
+                       Grid.Column="1"
+                       Grid.Row="0"
+                       FontSize="16"
+                       TextColor="{StaticResource ShellCustom}"/>
+                <Image Grid.Row="0"
+                       Grid.Column="2"
+                       Source="right_arrow"
+                       WidthRequest="24"/>
+                <BoxView   Grid.Row="1"
+                           Grid.ColumnSpan="3"
+                           HeightRequest="1"
+                           BackgroundColor="{StaticResource ShellCustom}"/>
+
+            </Grid>
+
         </DataTemplate>
     </Shell.ItemTemplate>
+
+    
 
 </Shell>

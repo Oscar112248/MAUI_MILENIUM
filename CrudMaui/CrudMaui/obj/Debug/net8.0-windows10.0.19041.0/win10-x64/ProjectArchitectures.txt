@@ -1,1 +1,0 @@
-C:\Users\omaldonado\Documents\CrudMaui\CrudMaui\CrudMaui.csproj;x64

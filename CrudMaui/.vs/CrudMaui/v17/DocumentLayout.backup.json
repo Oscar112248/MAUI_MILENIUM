@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\",
+  "WorkspaceRootPath": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\users\\omaldonado\\documents\\crudmaui\\crudmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\github milenium\\maui_milenium\\crudmaui\\crudmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|solutionrelative:crudmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\users\\omaldonado\\documents\\crudmaui\\crudmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\github milenium\\maui_milenium\\crudmaui\\crudmaui\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|solutionrelative:crudmaui\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\github milenium\\maui_milenium\\crudmaui\\crudmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|solutionrelative:crudmaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\users\\omaldonado\\documents\\crudmaui\\crudmaui\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|solutionrelative:crudmaui\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\users\\omaldonado\\documents\\crudmaui\\crudmaui\\views\\onboardingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|solutionrelative:crudmaui\\views\\onboardingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\users\\omaldonado\\documents\\crudmaui\\crudmaui\\views\\onboardingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|solutionrelative:crudmaui\\views\\onboardingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|c:\\github milenium\\maui_milenium\\crudmaui\\crudmaui\\views\\facturacionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F3F17C6-67C6-47FF-9468-8453CBDB86D8}|CrudMaui\\CrudMaui.csproj|solutionrelative:crudmaui\\views\\facturacionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\AppShell.xaml",
+              "RelativeDocumentMoniker": "CrudMaui\\AppShell.xaml",
+              "ToolTip": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\AppShell.xaml",
+              "RelativeToolTip": "CrudMaui\\AppShell.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T16:34:59.15Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -46,66 +56,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\Views\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "CrudMaui\\Views\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\Views\\LoginPage.xaml",
-              "RelativeToolTip": "CrudMaui\\Views\\LoginPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FacturacionPage.xaml",
+              "DocumentMoniker": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\Views\\FacturacionPage.xaml",
+              "RelativeDocumentMoniker": "CrudMaui\\Views\\FacturacionPage.xaml",
+              "ToolTip": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\Views\\FacturacionPage.xaml",
+              "RelativeToolTip": "CrudMaui\\Views\\FacturacionPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-28T19:26:33.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T15:39:25.092Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "CrudMaui\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\Views\\HomePage.xaml",
+              "RelativeToolTip": "CrudMaui\\Views\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T15:39:15.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "CrudMaui\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\AppShell.xaml.cs",
+              "ToolTip": "C:\\github milenium\\MAUI_MILENIUM\\CrudMaui\\CrudMaui\\AppShell.xaml.cs",
               "RelativeToolTip": "CrudMaui\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T19:16:27.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OnboardingPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\Views\\OnboardingPage.xaml.cs",
-              "RelativeDocumentMoniker": "CrudMaui\\Views\\OnboardingPage.xaml.cs",
-              "ToolTip": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\Views\\OnboardingPage.xaml.cs",
-              "RelativeToolTip": "CrudMaui\\Views\\OnboardingPage.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T16:41:32.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OnboardingPage.xaml",
-              "DocumentMoniker": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\Views\\OnboardingPage.xaml",
-              "RelativeDocumentMoniker": "CrudMaui\\Views\\OnboardingPage.xaml",
-              "ToolTip": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\Views\\OnboardingPage.xaml",
-              "RelativeToolTip": "CrudMaui\\Views\\OnboardingPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-28T16:39:56.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\AppShell.xaml",
-              "RelativeDocumentMoniker": "CrudMaui\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\omaldonado\\Documents\\CrudMaui\\CrudMaui\\AppShell.xaml",
-              "RelativeToolTip": "CrudMaui\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-28T16:34:59.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T19:16:27.758Z"
             }
           ]
         }
